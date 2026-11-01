@@ -1,0 +1,7 @@
+INSTRUÇÕES
+--- RECORDSEPARATOR ---
+Use as setas                   para movimentar o brigadeiro    x  
+--- RECORDSEPARATOR ---
+pelos caminhos até chegar à saída                  . Cuidado para
+--- RECORDSEPARATOR ---
+não ser pego pela Zuzu                 . Boa Sorte !
