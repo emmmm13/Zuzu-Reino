@@ -1,0 +1,2 @@
+1. Cada jogador deve escolher um personagem e clicar  nele. Em seguida deve escrever seu nome. 2. Depois deve clicar acima em "Sortear" para jogar o dado e definir a ordem dos jogadores.3. Observe sempre o quadro amarelo abaixo, pois ele traz informações importantes para o jogo.4. Depois de escolhidos pelo menos dois jogadores, clique em "Jogar",  quem chegar primeiro ao fim do 
+tabuleiro vence. Boa sorte! 

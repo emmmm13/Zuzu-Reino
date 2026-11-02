@@ -1,0 +1,2 @@
+ok = "";
+loadVariables("perguntas.txt","");

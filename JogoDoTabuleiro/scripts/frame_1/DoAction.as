@@ -1,0 +1,1 @@
+fscommand("allowscale",false);
